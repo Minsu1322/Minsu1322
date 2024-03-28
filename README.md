@@ -20,6 +20,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinsu1322%2Fhit-counter&count_bg=%237DD1F8&title_bg=%23B0AAAA&icon=awesomelists.svg&icon_color=%23000000&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+
+## ⚡ Technologies
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
