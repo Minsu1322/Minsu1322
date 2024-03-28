@@ -1,7 +1,8 @@
 ## Hello!! Welcome!!
 
-<h1 align="center"> Hi, I'm Kim Min Su </a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO </h1>
+<h2 align="center"> Hi, I'm Kim Min Su </a>!</h1>
+<h2 align="center">Welcome to my GitHub profile~ OwO </h1>
+
 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
