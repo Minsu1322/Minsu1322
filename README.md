@@ -2,6 +2,7 @@
 -n1-
 
 <h1 align="center">Hi, I'm Kim Min Su </a>!</h1>
+-n1-
 
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
