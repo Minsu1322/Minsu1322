@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?text=Welcome to my GitHub!)
+https://capsule-render.vercel.app/api?
 
 <h1 align="center">Hi, I'm Kim Min Su </a>!</h1>
+
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 
