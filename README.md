@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn, twinkling)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=twinkling)
+
 
 
 <h1 align="center"> Hi, I'm Kim Min Su </a>!</h1>
