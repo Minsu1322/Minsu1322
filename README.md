@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub&animation=twinkling&fontColor=6bc4e7)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=6bc4e7)
+
 
 <h1 align="center"> Hi, I'm Kim Min Su </a>!</h1>
 
