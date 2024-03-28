@@ -12,6 +12,8 @@
 
 ![Minsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minsu1322&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu1322&layout=compact)
+
 <p align="center"> Front-end, React </p>
 
 <!--
