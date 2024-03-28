@@ -25,6 +25,6 @@
 <p align="center"> Front-end, React </p>
 
 
-<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/ffffff?style= flat-square&logo=로고&logoColor=61DAFB"/></a>
+<a href="https://ko.legacy.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/ffffff?style= flat-square&logo=React&logoColor=61DAFB"/></a>
 
 
