@@ -3,9 +3,6 @@
 <h2 align="center"> Hi, I'm Kim Min Su </a>!</h1>
 <h2 align="center">Welcome to my GitHub profile~ OwO </h1>
 
-<a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/{KimMinSu}" width="100%"/> </a>
-
-
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
